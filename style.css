@@ -1,5 +1,0 @@
-.container {
-  display: flex;
-  justify-content: space-around; /* or flex-start, center, space-between, space-evenly */
-  align-items: center; /* for vertical alignment if needed */
-}
